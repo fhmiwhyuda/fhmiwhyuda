@@ -1,4 +1,4 @@
-<img align="center" height="auto" src="https://avatars.githubusercontent.com/u/94178687?v=4"/>
+<img align="center" height="auto" src="https://github.com/fhmiwhyuda/fhmiwhyuda/blob/master/img/1.jpg"/>
 
 ```text
 - 👋 Hi, I’m @fhmiwhyuda
