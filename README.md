@@ -7,19 +7,18 @@
 
 - 🔭 I’m currently working on **Prowhelper-DiscordBot**
 
-- 🌱 I’m currently learning **Junior Web Developer VSGA Digital talent scholarship**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Prowhelper-DiscordBot**
 
 - 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **muhammadfahmiwahyuda@gmail.com**
 
 - ⚡ Fun fact **I like anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/fhmii.whyuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fhmii.whyuda" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/693389973323382874/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fhmiwhyuda#0881" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
