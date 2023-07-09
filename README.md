@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello, I'm fahmi wahyuda</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="anime-custom-image" width="220" src="https://media.tenor.com/hZJlNhWdhF0AAAAC/mafumafu-mafu.gif">
+<!-- <img align="right" alt="anime-custom-image" width="220" src="https://media.tenor.com/hZJlNhWdhF0AAAAC/mafumafu-mafu.gif"> -->
 
 - 🌱 I’m currently learning **Python**
 
