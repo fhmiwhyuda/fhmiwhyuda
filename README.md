@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **ProwHelper-DiscordBot**
-
 - 💬 Ask me about **Javascript**
 
 - ⚡ Fun fact **I like anime**
